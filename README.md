@@ -2,7 +2,7 @@
 
 This program will present you with a priave ip address and a subnet mask or cidr
 You will be asked questions about the subnet configuration.
-All ip address are expectedin the format
+All ip address are expected in the following format
 ```
 #.#.#.#
 ```
